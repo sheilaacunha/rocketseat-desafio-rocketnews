@@ -101,7 +101,7 @@ input {
   top: 426px;
   border: none;
   padding-left: 5px;
-  border-left: 5px solid red;
+  border-left: 5px solid var(--title-color);
   filter: drop-shadow(4px 10px 15px rgba(0, 0, 0, 0.5));
 }
 div {
